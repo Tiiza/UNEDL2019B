@@ -1,0 +1,5 @@
+PVT2
+Realizar un ensayo relaconado a la historia de Linux
+1) Debe contener su hitoria
+2) Debe hablar acerca de Linus Torvalds
+3) Debe mencionar la fundacion Linux
