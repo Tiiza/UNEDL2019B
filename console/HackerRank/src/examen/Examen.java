@@ -10,7 +10,7 @@ public class Examen {
         Calculadora calculadora1 = new Calculadora(tapiz1, habitacion1);
         habitacion1.Area();
         tapiz1.Regresar_Costo();
-        calculadora1.Costo_Total();
+        System.out.println("Costo total:" + calculadora1.Costo_Total());
         
         
     }

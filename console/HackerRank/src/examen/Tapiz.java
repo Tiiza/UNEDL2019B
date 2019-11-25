@@ -31,7 +31,6 @@ public class Tapiz {
     
     
     public double Regresar_Costo(){
-        System.out.println(cost);
         return cost;
     }
 }

@@ -3,8 +3,6 @@ package examen;
 
 public class Calculadora {
     
-    Habitacion habitacion1 = new Habitacion();
-    Tapiz tapiz1 = new Tapiz();
     
     private double totalCost = 0;
     
@@ -18,7 +16,7 @@ public class Calculadora {
     }
 
     Calculadora(Tapiz tapiz1, Habitacion habitacion1) {
-       
+       totalCost = habitacion1.Area()*tapiz1.Regresar_Costo();
     }
 
     
@@ -31,9 +29,8 @@ public class Calculadora {
     }
     
     
-    public void Costo_Total(){
-        System.out.print("Total: ");
-        System.out.println(totalCost = habitacion1.getArea()*tapiz1.getCost());  
+    public double Costo_Total(){
+        return totalCost;
 //        totalCost = habitacion1.getArea()*tapiz1.getCosto();
     }
 }

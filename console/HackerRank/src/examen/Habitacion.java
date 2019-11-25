@@ -46,9 +46,11 @@ public class Habitacion {
         this.largo = largo;
     }
     
-    public void Area(){
+    public double Area(){
         System.out.println("Ancho "+ancho +" Largo "+largo);
         area = ancho * largo;
         System.out.println("Area "+area);
+        return area;
+        
     }
 }
