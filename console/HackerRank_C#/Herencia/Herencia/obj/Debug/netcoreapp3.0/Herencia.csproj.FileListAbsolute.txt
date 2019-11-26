@@ -1,0 +1,11 @@
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\bin\Debug\netcoreapp3.0\Herencia.exe
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\bin\Debug\netcoreapp3.0\Herencia.deps.json
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\bin\Debug\netcoreapp3.0\Herencia.runtimeconfig.json
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\bin\Debug\netcoreapp3.0\Herencia.runtimeconfig.dev.json
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\bin\Debug\netcoreapp3.0\Herencia.dll
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\bin\Debug\netcoreapp3.0\Herencia.pdb
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\obj\Debug\netcoreapp3.0\Herencia.csprojAssemblyReference.cache
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\obj\Debug\netcoreapp3.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\obj\Debug\netcoreapp3.0\Herencia.AssemblyInfo.cs
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\obj\Debug\netcoreapp3.0\Herencia.dll
+C:\Users\isay1\UNEDL2019B\Console\HackerRank_C#\Herencia\Herencia\obj\Debug\netcoreapp3.0\Herencia.pdb
