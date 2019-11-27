@@ -1,0 +1,10 @@
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\bin\Debug\TPV2doParcial.exe.config
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\bin\Debug\TPV2doParcial.exe
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\bin\Debug\TPV2doParcial.pdb
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.csprojAssemblyReference.cache
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.MenuArchivo.resources
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.MenuDatos.resources
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.Properties.Resources.resources
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.csproj.GenerateResource.cache
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.exe
+C:\Users\isay1\UNEDL2019B\Windows\TPV2doParcial\TPV2doParcial\obj\Debug\TPV2doParcial.pdb
