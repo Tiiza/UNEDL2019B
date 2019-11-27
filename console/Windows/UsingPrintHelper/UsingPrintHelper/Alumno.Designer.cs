@@ -40,9 +40,9 @@
             this.bttCredencial = new System.Windows.Forms.Button();
             this.bttCancelar = new System.Windows.Forms.Button();
             this.gbInfo = new System.Windows.Forms.GroupBox();
+            this.checkBoxVip = new System.Windows.Forms.CheckBox();
             this.gbTalleres = new System.Windows.Forms.GroupBox();
             this.listbTalleres = new System.Windows.Forms.ListBox();
-            this.checkBoxVip = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.gradoUpDw)).BeginInit();
             this.gbInfo.SuspendLayout();
             this.gbTalleres.SuspendLayout();
@@ -145,6 +145,7 @@
             this.bttCredencial.TabIndex = 11;
             this.bttCredencial.Text = "Credencial";
             this.bttCredencial.UseVisualStyleBackColor = true;
+            this.bttCredencial.Click += new System.EventHandler(this.bttCredencial_Click);
             // 
             // bttCancelar
             // 
@@ -154,6 +155,7 @@
             this.bttCancelar.TabIndex = 12;
             this.bttCancelar.Text = "Cancelar";
             this.bttCancelar.UseVisualStyleBackColor = true;
+            this.bttCancelar.Click += new System.EventHandler(this.bttCancelar_Click);
             // 
             // gbInfo
             // 
@@ -172,6 +174,16 @@
             this.gbInfo.TabIndex = 13;
             this.gbInfo.TabStop = false;
             this.gbInfo.Text = "Informacion de Registro";
+            // 
+            // checkBoxVip
+            // 
+            this.checkBoxVip.AutoSize = true;
+            this.checkBoxVip.Location = new System.Drawing.Point(107, 145);
+            this.checkBoxVip.Name = "checkBoxVip";
+            this.checkBoxVip.Size = new System.Drawing.Size(43, 17);
+            this.checkBoxVip.TabIndex = 11;
+            this.checkBoxVip.Text = "VIP";
+            this.checkBoxVip.UseVisualStyleBackColor = true;
             // 
             // gbTalleres
             // 
@@ -199,16 +211,6 @@
             this.listbTalleres.Name = "listbTalleres";
             this.listbTalleres.Size = new System.Drawing.Size(397, 69);
             this.listbTalleres.TabIndex = 0;
-            // 
-            // checkBoxVip
-            // 
-            this.checkBoxVip.AutoSize = true;
-            this.checkBoxVip.Location = new System.Drawing.Point(107, 145);
-            this.checkBoxVip.Name = "checkBoxVip";
-            this.checkBoxVip.Size = new System.Drawing.Size(43, 17);
-            this.checkBoxVip.TabIndex = 11;
-            this.checkBoxVip.Text = "VIP";
-            this.checkBoxVip.UseVisualStyleBackColor = true;
             // 
             // Alumno
             // 
