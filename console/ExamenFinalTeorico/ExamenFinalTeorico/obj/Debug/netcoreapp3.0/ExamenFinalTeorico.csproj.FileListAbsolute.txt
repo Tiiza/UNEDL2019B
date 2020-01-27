@@ -1,0 +1,11 @@
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\bin\Debug\netcoreapp3.0\ExamenFinalTeorico.exe
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\bin\Debug\netcoreapp3.0\ExamenFinalTeorico.deps.json
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\bin\Debug\netcoreapp3.0\ExamenFinalTeorico.runtimeconfig.json
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\bin\Debug\netcoreapp3.0\ExamenFinalTeorico.runtimeconfig.dev.json
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\bin\Debug\netcoreapp3.0\ExamenFinalTeorico.dll
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\bin\Debug\netcoreapp3.0\ExamenFinalTeorico.pdb
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\obj\Debug\netcoreapp3.0\ExamenFinalTeorico.csprojAssemblyReference.cache
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\obj\Debug\netcoreapp3.0\ExamenFinalTeorico.AssemblyInfoInputs.cache
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\obj\Debug\netcoreapp3.0\ExamenFinalTeorico.AssemblyInfo.cs
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\obj\Debug\netcoreapp3.0\ExamenFinalTeorico.dll
+C:\Users\isay1\source\repos\ExamenFinalTeorico\ExamenFinalTeorico\obj\Debug\netcoreapp3.0\ExamenFinalTeorico.pdb
