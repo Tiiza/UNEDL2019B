@@ -1,0 +1,9 @@
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\bin\Debug\ExamenPracticoFinal.exe.config
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\bin\Debug\ExamenPracticoFinal.exe
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\bin\Debug\ExamenPracticoFinal.pdb
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\obj\Debug\ExamenPracticoFinal.csprojAssemblyReference.cache
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\obj\Debug\ExamenPracticoFinal.Form1.resources
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\obj\Debug\ExamenPracticoFinal.Properties.Resources.resources
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\obj\Debug\ExamenPracticoFinal.csproj.GenerateResource.cache
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\obj\Debug\ExamenPracticoFinal.exe
+C:\Users\isay1\UNEDL2019B\Console\ExamenFinalPractico\ExamenPracticoFinal\ExamenPracticoFinal\obj\Debug\ExamenPracticoFinal.pdb
